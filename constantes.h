@@ -6,3 +6,4 @@
 #define COULEUR_ECRAN       32  // 8, 16 ou 32
 
     enum {VIDE, MUR, JOUEUR1, JOUEUR2};
+    enum {HAUT, BAS, DROITE, GAUCHE};
